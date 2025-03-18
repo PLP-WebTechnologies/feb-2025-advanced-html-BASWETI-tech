@@ -1,0 +1,15 @@
+table, th, td {
+    border: 1px solid red;
+}
+body{
+    background-color: lightcoral;
+}
+footer{
+    background-color: lightseagreen;
+}
+li{
+    float: left;
+   
+    padding: 10px;
+    list-style: none;
+}
